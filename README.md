@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-A link to the Jupyter Notebook provided here
+A link to the Jupyter Notebook provided [here](https://github.com/Mikeblanchard/Cryptocurrencies/blob/main/crypto_clustering.ipynb) 
 
 The purpose of this analysis was to create an unsupervised learning algorithm to categorize tradeable crytocurrencies. 
 
